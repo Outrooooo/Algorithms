@@ -4,10 +4,7 @@ namespace TestAlgorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(@"\    /\");
-            Console.WriteLine(@" )  ( ')");
-            Console.WriteLine(@"(  /  )");
-            Console.WriteLine(@" \(__)|");
+            Console.WriteLine(@"\    /\" + "\n" + @" )  ( ')" +"\n"+ @"(  /  )" + "\n" + @" \(__)|");
         }
     }
 }
